@@ -40,8 +40,8 @@ The program was written using:
 
 # **Resources**[](https://)
 
-* The Python Standard Library [](https://docs.python.org/3/library/intro.html)
+* [The Python Standard Library](https://docs.python.org/3/library/intro.html)
 
-* Pandas Documentation [](https://pandas.pydata.org/docs/)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
 
-* Stack Overflow [](https://stackoverflow.com/documentation)
+* [Stack Overflow](https://stackoverflow.com/documentation)
