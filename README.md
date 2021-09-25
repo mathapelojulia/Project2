@@ -23,7 +23,7 @@ The Chicago and New York City files also provide the additional following two co
 * Birth Year
 
 # **Files**[](https://)
-Data used in this project is provided by Motivate, a national bike share system provider. In order to run the program, the following files are needed.
+Data used in this project is provided by [Motivate](https://www.motivateco.com/), a national bike share system provider. In order to run the program, the following files are needed.
 
 * chicago.csv
 
