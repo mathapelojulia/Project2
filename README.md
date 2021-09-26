@@ -38,6 +38,8 @@ The program was written using:
 
 * NumPy and Pandas were installed using Anaconda
 
+* A text editor, like Atom
+
 # **Resources**[](https://)
 
 * [The Python Standard Library](https://docs.python.org/3/library/intro.html)
